@@ -1,10 +1,10 @@
 ### Hey there! 👋 I'm Ryan (a.k.a Joseph Edward Sutanto)
 
 🚀 **About Me:**  
-- 🏫 Student at **Petra 5 Senior High School** (XI-1)  
-- 🎮 Passionate about **Physics, Coding, Interactive Learning, and VJ**  
+- 🏫 Student at **SMI - Shine Mercy Interculture** (XII)  
+- 🎮 Passionate about **Coding, Interactive Learning, and VJ**  
 - 🏆 Learning and Exploring **IT, VJ, and Pentesting (Still a Beginner, but Always Improving!)**  
-- 🎥 Familiar with **Resolume, Vmix, and OBS**  
+- 🎥 Familiar with **Resolume, Vmix, and OBS, VSCode**  
 
 🔧 **Tech Stack:**  
 🚀 **Web Development:**  
@@ -23,8 +23,8 @@
 
 📫 **Let's Connect!**  
 - ✉️ Email: [enstentik112@gmail.com](mailto:enstentik112@gmail.com)  
-- 📱 WhatsApp: [081232322106](https://wa.me/6281232322106)  
-- 🌐 Portfolio (Coming Soon!)  
+- 📱 WhatsApp: [085746901637](https://wa.me/6285746901637)  
+- 🌐 Portfolio [Here!](https://zyvano.github.io/me/profile.html)  
 
 ---
 🔥 *“Still a beginner, but always pushing limits. Learning never stops!”*
