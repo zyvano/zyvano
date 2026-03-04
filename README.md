@@ -4,7 +4,7 @@
 - 🏫 Student at **SMI - Shine Mercy Interculture** (XII)  
 - 🎮 Passionate about **Coding, Interactive Learning, and VJ**  
 - 🏆 Learning and Exploring **IT, VJ, and Pentesting (Still a Beginner, but Always Improving!)**  
-- 🎥 Familiar with **Resolume, Vmix, and OBS, VSCode**  
+- 🎥 Familiar with **Resolume, Vmix, and OBS, VSCode, Visual Studio**  
 
 🔧 **Tech Stack:**  
 🚀 **Web Development:**  
